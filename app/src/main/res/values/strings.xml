@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">hearingAid</string>
+    <string-array name="audio_formats">
+        <item>AMR (Wideband)</item>
+        <item>AMR (Narrowband)</item>
+        <item>AAC Low Complexity</item>
+        <item>Enhanced Low Delay AAC</item>
+        <item>High Efficiency AAC</item>
+        <item>Ogg Vorbis</item>
+        <item>PCM 16BIT</item>
+    </string-array>
+    <string-array name="in_channels">
+        <item>Mono In</item>
+        <item>Stereo In</item>
+    </string-array>
+    <string-array name="out_channels">
+        <item>Mono Out</item>
+        <item>Stereo Out</item>
+    </string-array>
+</resources>
